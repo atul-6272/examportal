@@ -1,0 +1,81 @@
+.container {
+	        width:1200px;
+			margin:auto;
+           }
+table {
+    border-collapse: collapse;
+    
+}
+.div2 { 
+	   position:relative;
+	   background:#1f9ed5;
+	   height:40px;
+	   
+      }
+.ulmenu{
+	    
+	    list-style:none;
+		width:1200px;
+	    margin:0 auto; 
+       }
+.ulmenu>li{
+	       padding-top:5px;
+	       float:left;
+	       margin-top:0px;
+	       display:inline;
+		   margin-right:30px;
+          }
+.ulmenu>li>a{
+	         text-decoration:none;
+		     color:white;
+            }
+.ulmenu>li>a:hover{
+	               color:red;
+		          
+                  }
+.div3{
+	border-radius:5px;
+}
+
+h2{
+    text-align: center;
+	
+    padding: 10px;
+	background-color: #4CAF50;
+    color: white;
+	
+}
+td{
+    text-align: left;
+    padding: 10px;
+}
+input[type=text],input[type=email],input[type=password] {
+    
+    padding: 10px 5px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: #a2d3f8;
+    color: black;
+}
+.div4{
+	float:left;
+	width: 600px;
+     }
+.div5{
+	float:right;
+	width: 600px;
+     }
+input[type=submit]{
+	text-align: center;
+    padding: 10px;
+	background-color: #98aeb6;
+    color: white;
+}
+.div6{
+	text-align:center;
+	padding-top:20px 5px;
+}
+
+
+
